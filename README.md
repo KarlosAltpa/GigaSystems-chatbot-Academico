@@ -3,7 +3,9 @@ Desarrollamos un Chatbot Académico Inteligente capaz de atender solicitudes est
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/21cb70a5-7db6-4fb5-8935-439ee94e3abb" />
 
-# 🌐 Proyecto Web UTEG – Plataforma Informativa con Chat Estudiantil
+# 🌐 Proyecto Web UTEG – Plataforma Informativa con Chat Estudiantil en colaboracion con GygaSistems
+
+Conformado por: Norkys Burgos, Joseph Abad y Carlos Altamirano.
 
 ## 📌 Descripción del Proyecto
 
@@ -142,7 +144,7 @@ npm start
 
 ## 👨‍🎓 Autor
 
-Proyecto desarrollado por Grupo 2 GygaSistems como parte de un trabajo académico para la **Universidad Tecnológica Empresarial del Ecuador (UTEG)**.
+Proyecto desarrollado por Grupo 6 GygaSistems como parte de un trabajo académico para la **Universidad Tecnológica Empresarial del Ecuador (UTEG)**.
 
 A continuacion les comparto el Link de la paguina:
 
